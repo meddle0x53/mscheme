@@ -1,0 +1,8 @@
+[package]
+name = "mscheme"
+version = "0.1.0"
+authors = ["meddle <n.tzvetinov@gmail.com>"]
+
+[dependencies]
+rustyline = "1.0.0"
+colored = "1.6"
